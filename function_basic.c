@@ -18,7 +18,7 @@ int Subtract()
     scanf("%d",&a);
     printf("Please enter your second number: ");
     scanf("%d",&b);
-    subtract=a+b;
+    subtract=a-b;
     printf("Subtract: %d",a-b);
 }
 int main()
